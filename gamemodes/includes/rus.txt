@@ -1,0 +1,29 @@
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(3) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(21) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawFont"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(22) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawColor"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(23) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawTextSize"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(19) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "horseid"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(28) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawFont"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(29) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawColor"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(30) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "TextDrawTextSize"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(26) : èäåíòèôèêàòîð íå èñïîëüçóåòñÿ: "horsenumid"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(26) -- (33) : ïðåäóïðåæäåíèå 235: public-ôóíêöèÿ íóæäàåòñÿ â îïåðåæàþùåì îáúÿâëåíèè (èäåíòèôèêàòîð "OnFilterScriptInit")
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(35) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "print"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(36) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "print"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(37) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "print"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(48) : íåïðàâèëüíàÿ òàáóëÿöèÿ
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(58) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SetWorldTime"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(61) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "SendClientMessageToAll"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(62) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(64) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(64) : îøèáêà 029: íåïðàâèëüíîå âûðàæåíèå, ïðèíÿò íîëü
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(64) : ïðåäóïðåæäåíèå 221: íàçâàíèå ìåòêè "Float" ïåðåêðûâàåò òèï ñ òàêèì æå íàçâàíèåì
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(64) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "Y"
+C:\Users\admin\Desktop\NTRP\gamemodes\includes\HorseBet.pwn(64) : ôàòàëüíàÿ îøèáêà 107: ñëèøêîì ìíîãî îøèáîê íà îäíîé ñòðîêå
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:17.
